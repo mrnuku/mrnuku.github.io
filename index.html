@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta property="og:url"                content="https://holyspirit.hu/" />
+  <meta property="og:type"               content="website" />
+  <meta property="og:title"              content="mrnuku's personal website" />
+  <meta property="og:description"        content="“Whenever you find yourself on the side of the majority, it is time to reform (or pause and reflect).” ― Mark Twain" />
+  <meta property="og:image"              content="https://holyspirit.hu/bg.jpg" />
+  <!-- <link rel="stylesheet" href="mystyle.css"> -->
+  <style>
+    html {
+      min-height:100%;
+      background:url(bg.jpg);
+      background-size:cover;
+      box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.85);
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 14px;
+      line-height: 20px;
+      color: white;
+    }
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #00000080;
+    }
+
+    li {
+      float: left;
+    }
+
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-family: Arial Black, Helvetica, sans-serif;
+      font-size: 16px;
+    }
+
+    /* Change the link color to #111 (black) on hover */
+    li a:hover {
+      background-color: #FFFFFF80;
+    }
+
+    img {
+      padding: 0px 4px;
+      height: 14px;
+    }
+
+    div {
+      padding: 0px 24px;
+    }
+  </style>
+  <script type="text/javascript">
+    window.onload = w => {
+      const content = document.querySelector('#content');
+      const secret = document.querySelector('#secret');
+      const home = document.querySelector('#home');
+      const secretcontent = document.querySelector('#secretcontent');
+      secret.onclick = e => {
+        content.hidden = true;
+        secretcontent.hidden = false;
+        home.hidden = false;
+        secret.hidden = true;
+      }
+      home.hidden = true;
+      home.onclick = e => {
+        content.hidden = false;
+        secretcontent.hidden = true;
+        home.hidden = true;
+        secret.hidden = false;
+      }
+      if (document.location.search === "?secret") {
+        secret.onclick(null);
+      }
+    }
+  </script>
+</head>
+<body>
+
+  <ul>
+    <li><a href="https://forum.holyspirit.hu/"><img src="og-image.png">Forum</a></li>
+    <li><a href="https://github.com/mrnuku"><img src="GitHub-Mark.png">Github</a></li>
+    <li><a href="https://steamcommunity.com/id/mrnuku"><img src="Steam-Logo.png">Steam</a></li>
+    <li><a href="https://www.youtube.com/channel/UCO4U6UCMPJK1H_W1F5jM8JQ"><img src="youtube_social_icon_red.png">YouTube</a></li>
+    <li><a href="https://kvstat.holyspirit.hu/">Kvstat</a></li>
+    <li><a href="/pd">Preact-Draw</a></li>
+    <li id="secret"><a href="#">Secret</a></li>
+    <li id="home"><a href="#">Home</a></li>
+  </ul>
+
+  <div id="content">
+    <div style="padding: 24px 24px; font-family: Arial Black, Helvetica, sans-serif;">
+      About me
+    </div>
+    <div>
+      My name is Róbert Bálint, born in Hungary, Budapest in the year 1987.
+    </div>
+    <div>
+      Started programming by myself (self taught) almost after i got my first computer at the age of 17.
+    </div>
+    <div>
+      First i was very interested of video games as a young boy... this was the era of the Quake 3 games, so my first experiences was in the C language, made a lot of mods/optimization for those games.
+    </div>
+    <div>
+      So really my professional carrier started in 2015 year ago as a mobile developer for iOS/iPhone, then when nodejs started to surface (0.12 times) i started to do backend programing, and i do frontend (react) work as well.
+    </div>
+    <div>
+      So after numerous projects i did: C(++,qt,linux,opengl)/Java(Android/Spring)/(node)JS(+TS)/SQL(my,psql,lite)/ObjC-Swift/bash...
+    </div>
+    <div>
+      I love linux if its either Gentoo, Alpine or Ubuntu/Debian.
+    </div>
+    <div>
+      I work on a mac, proud owner of an M1 apple silicon.
+    </div>
+  </div>
+
+  <div id="secretcontent" hidden="true">
+    <div>The Conscious Resistance Network presents: The Pyramid of Power - Season 1</div>
+
+    <video controls>
+      <source src="video/IItRl5XItvBn.mp4" type="video/mp4">
+    Your browser does not support the video element.
+    </video>
+
+    <div>20210130_Living_In_Resonance-Max_Igan.mp3</div>
+
+    <audio controls>
+      <source src="20210130_Living_In_Resonance-Max_Igan.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+  </div>
+
+</body>
+</html>
