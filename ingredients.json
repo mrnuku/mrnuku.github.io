@@ -1,0 +1,3707 @@
+{
+  "ingredients": [
+    {
+      "effects": [
+        "Weakness to Frost",
+        "Fortify Sneak",
+        "Weakness to Poison",
+        "Fortify Restoration"
+      ],
+      "source": {
+        "traderarity": "common",
+        "hatchery": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/7a/SR-icon-ingredient-Abecean_Longfin.png/48px-SR-icon-ingredient-Abecean_Longfin.png",
+      "value": 15,
+      "name": "Abecean Longfin",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Fortify Conjuration",
+        "Damage Magicka Regen",
+        "Fortify Enchanting"
+      ],
+      "image": "http://images.uesp.net/thumb/3/31/SR-icon-ingredient-Ancestor_Moth_Wing.png/48px-SR-icon-ingredient-Ancestor_Moth_Wing.png",
+      "value": 2,
+      "name": "Ancestor Moth Wing",
+      "weight": 0.1,
+      "dlc": "dg"
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Invisibility",
+        "Resist Fire",
+        "Fortify Destruction"
+      ],
+      "image": "http://images.uesp.net/thumb/b/b2/SR-icon-ingredient-Ash_Creep_Cluster.png/48px-SR-icon-ingredient-Ash_Creep_Cluster.png",
+      "value": 20,
+      "name": "Ash Creep Cluster",
+      "weight": 0.25,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify Light Armor",
+        "Resist Shock",
+        "Weakness to Frost"
+      ],
+      "image": "http://images.uesp.net/thumb/9/92/SR-icon-ingredient-Ash_Hopper_Jelly.png/48px-SR-icon-ingredient-Ash_Hopper_Jelly.png",
+      "value": 20,
+      "name": "Ash Hopper Jelly",
+      "weight": 0.25,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Resist Fire",
+        "Weakness to Shock",
+        "Fortify Lockpicking",
+        "Fortify Sneak"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "value": 1.36
+        }
+      },
+      "image": "http://images.uesp.net/thumb/c/c0/SR-icon-ingredient-Ashen_Grass_Pod.png/48px-SR-icon-ingredient-Ashen_Grass_Pod.png",
+      "value": 1,
+      "name": "Ashen Grass Pod",
+      "weight": 0.1,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Health",
+        "Fortify One-handed",
+        "Damage Magicka Regen"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 0.8,
+          "value": 0.78
+        }
+      },
+      "source": {
+        "merchantperk": true,
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/0/04/SR-icon-ingredient-Bear_Claws.png/48px-SR-icon-ingredient-Bear_Claws.png",
+      "value": 2,
+      "name": "Bear Claws",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Ravage Stamina",
+        "Regenerate Stamina",
+        "Weakness to Shock"
+      ],
+      "source": {
+        "traderarity": "common",
+        "greenhouse": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/b/b8/SR-icon-ingredient-Bee.png/48px-SR-icon-ingredient-Bee.png",
+      "value": 3,
+      "name": "Bee",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Resist Poison",
+        "Fortify Light Armor",
+        "Fortify Sneak",
+        "Fortify Destruction"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 0.5
+        }
+      },
+      "source": {
+        "merchantperk": true,
+        "traderarity": "common"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/8/84/SR-icon-ingredient-Beehive_Husk.png/48px-SR-icon-ingredient-Beehive_Husk.png",
+      "value": 5,
+      "name": "Beehive Husk",
+      "weight": 1.0
+    },
+    {
+      "effects": [
+        "Weakness to Fire",
+        "Fortify Block",
+        "Weakness to Poison",
+        "Resist Magic"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/a/a6/SR-icon-ingredient-Bleeding_Crown.png/48px-SR-icon-ingredient-Bleeding_Crown.png",
+      "value": 10,
+      "name": "Bleeding Crown",
+      "weight": 0.3
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Frenzy",
+        "Restore Health",
+        "Fortify Smithing"
+      ],
+      "extra": {
+        "2": {
+          "magnitude": 0.6,
+          "value": 0.57
+        }
+      },
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 4
+      },
+      "image": "http://www.uesp.net/w/images/thumb/2/2b/SR-icon-ingredient-Blisterwort.png/48px-SR-icon-ingredient-Blisterwort.png",
+      "value": 12,
+      "name": "Blisterwort",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Fortify Conjuration",
+        "Damage Magicka Regen",
+        "Fortify Enchanting"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "greenhouse": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/1/16/SR-icon-ingredient-Blue_Butterfly_Wing.png/48px-SR-icon-ingredient-Blue_Butterfly_Wing.png",
+      "value": 2,
+      "name": "Blue Butterfly Wing",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Resist Shock",
+        "Fortify Pickpocket",
+        "Restore Health",
+        "Fear"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "uncommon",
+        "hatchery": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/e/ee/SR-icon-ingredient-Blue_Dartwing.png/48px-SR-icon-ingredient-Blue_Dartwing.png",
+      "value": 1,
+      "name": "Blue Dartwing",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify Conjuration",
+        "Fortify Health",
+        "Damage Magicka Regen"
+      ],
+      "source": {
+        "traderarity": "common",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/3/38/SR-icon-ingredient-Blue_Mountain_Flower.png/48px-SR-icon-ingredient-Blue_Mountain_Flower.png",
+      "value": 2,
+      "name": "Blue Mountain Flower",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Fortify Stamina",
+        "Fortify Health",
+        "Fortify Block",
+        "Frenzy"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.25,
+          "duration": 5,
+          "value": 7.5
+        },
+        "1": {
+          "duration": 5,
+          "value": 5.9
+        }
+      },
+      "image": "http://images.uesp.net/thumb/8/83/SR-icon-ingredient-Boar_Tusk.png/48px-SR-icon-ingredient-Boar_Tusk.png",
+      "value": 20,
+      "name": "Boar Tusk",
+      "weight": 0.5,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Resist Fire",
+        "Fortify Conjuration",
+        "Ravage Stamina"
+      ],
+      "source": {
+        "traderarity": "common"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/f/f9/SR-icon-ingredient-Bone_Meal.png/48px-SR-icon-ingredient-Bone_Meal.png",
+      "value": 5,
+      "name": "Bone Meal",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Fortify Block",
+        "Paralysis",
+        "Fortify Magicka"
+      ],
+      "extra": {
+        "1": {
+          "magnitude": 0.5
+        }
+      },
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/6/6a/SR-icon-ingredient-Briar_Heart.png/48px-SR-icon-ingredient-Briar_Heart.png",
+      "value": 20,
+      "name": "Briar Heart",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Weakness to Fire",
+        "Fortify Alteration",
+        "Damage Magicka Regen",
+        "Slow"
+      ],
+      "image": "http://images.uesp.net/thumb/6/6f/SR-icon-ingredient-Burnt_Spriggan_Wood.png/48px-SR-icon-ingredient-Burnt_Spriggan_Wood.png",
+      "value": 20,
+      "name": "Burnt Spriggan Wood",
+      "weight": 0.5,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify Barter",
+        "Lingering Damage Stamina",
+        "Damage Magicka"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "greenhouse": 6
+      },
+      "image": "http://images.uesp.net/thumb/f/f8/SR-icon-ingredient-Butterfly_Wing.png/48px-SR-icon-ingredient-Butterfly_Wing.png",
+      "value": 3,
+      "name": "Butterfly Wing",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Fortify One-handed",
+        "Fortify Marksman",
+        "Paralysis"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 4
+      },
+      "image": "http://www.uesp.net/w/images/thumb/f/f6/SR-icon-ingredient-Canis_Root.png/48px-SR-icon-ingredient-Canis_Root.png",
+      "value": 5,
+      "name": "Canis Root",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Cure Disease",
+        "Resist Poison",
+        "Restore Health"
+      ],
+      "extra": {
+        "1": {
+          "value": 0.36
+        }
+      },
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/71/SR-icon-ingredient-Charred_Skeever_Hide.png/48px-SR-icon-ingredient-Charred_Skeever_Hide.png",
+      "value": 1,
+      "name": "Charred Skeever Hide",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Weakness to Poison",
+        "Fortify Stamina",
+        "Damage Magicka",
+        "Invisibility"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/4/47/SR-icon-ingredient-Chaurus_Eggs.png/48px-SR-icon-ingredient-Chaurus_Eggs.png",
+      "value": 10,
+      "name": "Chaurus Eggs",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Fortify Conjuration",
+        "Damage Magicka Regen",
+        "Fortify Enchanting"
+      ],
+      "image": "http://images.uesp.net/thumb/a/a2/SR-icon-ingredient-Chaurus_Hunter_Antennae.png/48px-SR-icon-ingredient-Chaurus_Hunter_Antennae.png",
+      "value": 2,
+      "name": "Chaurus Hunter Antennae",
+      "weight": 0.1,
+      "dlc": "dg"
+    },
+    {
+      "effects": [
+        "Resist Magic",
+        "Damage Magicka Regen",
+        "Waterbreathing",
+        "Lingering Damage Stamina"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/d/de/SR-icon-ingredient-Chicken%27s_Egg.png/48px-SR-icon-ingredient-Chicken%27s_Egg.png",
+      "value": 2,
+      "name": "Chicken's Egg",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Damage Stamina Regen",
+        "Fortify Carry Weight",
+        "Weakness to Magic"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 5
+      },
+      "image": "http://www.uesp.net/w/images/thumb/1/15/SR-icon-ingredient-Creep_Cluster.png/48px-SR-icon-ingredient-Creep_Cluster.png",
+      "value": 1,
+      "name": "Creep Cluster",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Damage Stamina",
+        "Invisibility",
+        "Resist Magic"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 3
+        },
+        "1": {
+          "magnitude": 3
+        }
+      },
+      "image": "http://www.uesp.net/w/images/thumb/5/55/SR-icon-ingredient-Crimson_Nirnroot.png/48px-SR-icon-ingredient-Crimson_Nirnroot.png",
+      "value": 10,
+      "name": "Crimson Nirnroot",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Fortify Restoration",
+        "Fear",
+        "Ravage Health"
+      ],
+      "source": {
+        "traderarity": "common",
+        "hatchery": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/a/a9/SR-icon-ingredient-Cyrodilic_Spadetail.png/48px-SR-icon-ingredient-Cyrodilic_Spadetail.png",
+      "value": 15,
+      "name": "Cyrodilic Spadetail",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Damage Stamina Regen",
+        "Damage Magicka",
+        "Fear"
+      ],
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/b/b1/SR-icon-ingredient-Daedra_Heart.png/48px-SR-icon-ingredient-Daedra_Heart.png",
+      "value": 250,
+      "name": "Daedra Heart",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Ravage Stamina",
+        "Slow",
+        "Weakness to Poison"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5
+        },
+        "1": {
+          "value": 2.1
+        }
+      },
+      "source": {
+        "traderarity": "rare",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/5/58/SR-icon-ingredient-Deathbell.png/48px-SR-icon-ingredient-Deathbell.png",
+      "value": 4,
+      "name": "Deathbell",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Resist Fire",
+        "Fortify Barter",
+        "Fortify Illusion",
+        "Fortify Two-handed"
+      ],
+      "source": {
+        "traderarity": "common",
+        "garden": 4
+      },
+      "image": "http://www.uesp.net/w/images/thumb/0/0e/SR-icon-ingredient-Dragons_Tongue.png/48px-SR-icon-ingredient-Dragons_Tongue.png",
+      "value": 5,
+      "name": "Dragon's Tongue",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Weakness to Magic",
+        "Fortify Illusion",
+        "Regenerate Magicka",
+        "Restore Magicka"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/e/e5/SR-icon-ingredient-Dwarven_Oil.png/48px-SR-icon-ingredient-Dwarven_Oil.png",
+      "value": 15,
+      "name": "Dwarven Oil",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Fortify Destruction",
+        "Fortify Magicka",
+        "Damage Health"
+      ],
+      "extra": {
+        "1": {
+          "magnitude": 0.8
+        }
+      },
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/f/f1/SR-icon-ingredient-Ectoplasm.png/48px-SR-icon-ingredient-Ectoplasm.png",
+      "value": 25,
+      "name": "Ectoplasm",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Fortify Marksman",
+        "Weakness to Frost",
+        "Resist Fire"
+      ],
+      "source": {
+        "traderarity": "common"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/7a/SR-icon-ingredient-Elves_Ear.png/48px-SR-icon-ingredient-Elves_Ear.png",
+      "value": 10,
+      "name": "Elves Ear",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Fortify Magicka",
+        "Regenerate Health",
+        "Fortify Two-handed"
+      ],
+      "image": "http://images.uesp.net/thumb/5/53/SR-icon-ingredient-Emperor_Parasol_Moss.png/48px-SR-icon-ingredient-Emperor_Parasol_Moss.png",
+      "value": 1,
+      "name": "Emperor Parasol Moss",
+      "weight": 0.25,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Ravage Health",
+        "Damage Magicka",
+        "Restore Health"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/4/4e/SR-icon-ingredient-Eye_of_Sabre_Cat.png/48px-SR-icon-ingredient-Eye_of_Sabre_Cat.png",
+      "value": 2,
+      "name": "Eye of Sabre Cat",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Frenzy",
+        "Resist Poison",
+        "Fortify Lockpicking"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/6/6e/SR-icon-ingredient-Falmer_Ear.png/48px-SR-icon-ingredient-Falmer_Ear.png",
+      "value": 10,
+      "name": "Falmer Ear",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify Light Armor",
+        "Cure Disease",
+        "Resist Magic"
+      ],
+      "image": "http://images.uesp.net/thumb/4/42/SR-icon-ingredient-Felsaad_Tern_Feathers.png/48px-SR-icon-ingredient-Felsaad_Tern_Feathers.png",
+      "value": 15,
+      "name": "Felsaad Tern Feathers",
+      "weight": 0.1,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Weakness to Frost",
+        "Resist Fire",
+        "Restore Magicka",
+        "Regenerate Magicka"
+      ],
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/c/cc/SR-icon-ingredient-Fire_Salts.png/48px-SR-icon-ingredient-Fire_Salts.png",
+      "value": 50,
+      "name": "Fire Salts",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Resist Fire",
+        "Fortify Two-handed",
+        "Frenzy",
+        "Regenerate Stamina"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 4
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/76/SR-icon-ingredient-Fly_Amanita.png/48px-SR-icon-ingredient-Fly_Amanita.png",
+      "value": 2,
+      "name": "Fly Amanita",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Resist Frost",
+        "Fortify Sneak",
+        "Ravage Magicka",
+        "Damage Stamina Regen"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/9/99/SR-icon-ingredient-Frost_Mirriam.png/48px-SR-icon-ingredient-Frost_Mirriam.png",
+      "value": 1,
+      "name": "Frost Mirriam",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Weakness to Fire",
+        "Resist Frost",
+        "Restore Magicka",
+        "Fortify Conjuration"
+      ],
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/5/58/SR-icon-ingredient-Frost_Salts.png/48px-SR-icon-ingredient-Frost_Salts.png",
+      "value": 100,
+      "name": "Frost Salts",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Resist Poison",
+        "Fortify Stamina",
+        "Regenerate Magicka",
+        "Regenerate Health"
+      ],
+      "source": {
+        "traderarity": "common"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/e/e5/SR-icon-ingredient-Garlic.png/48px-SR-icon-ingredient-Garlic.png",
+      "value": 1,
+      "name": "Garlic",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Weakness to Shock",
+        "Ravage Health",
+        "Weakness to Poison",
+        "Restore Magicka"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 4
+      },
+      "image": "http://www.uesp.net/w/images/thumb/8/8b/SR-icon-ingredient-Giant_Lichen.png/48px-SR-icon-ingredient-Giant_Lichen.png",
+      "value": 5,
+      "name": "Giant Lichen",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Fortify Health",
+        "Fortify Carry Weight",
+        "Damage Stamina Regen"
+      ],
+      "extra": {
+        "1": {
+          "duration": 5,
+          "value": 5.9
+        }
+      },
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/b/bc/SR-icon-ingredient-Giants_Toe.png/48px-SR-icon-ingredient-Giants_Toe.png",
+      "value": 20,
+      "name": "Giant's Toe",
+      "weight": 1.0
+    },
+    {
+      "effects": [
+        "Resist Magic",
+        "Fear",
+        "Regenerate Health",
+        "Paralysis"
+      ],
+      "image": "http://images.uesp.net/thumb/c/c5/SR-icon-ingredient-Gleamblossom.png/48px-SR-icon-ingredient-Gleamblossom.png",
+      "value": 5,
+      "name": "Gleamblossom",
+      "weight": 0.1,
+      "dlc": "dg"
+    },
+    {
+      "effects": [
+        "Damage Magicka",
+        "Damage Magicka Regen",
+        "Fortify Destruction",
+        "Resist Shock"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/f/f8/SR-icon-ingredient-Glow_Dust.png/48px-SR-icon-ingredient-Glow_Dust.png",
+      "value": 20,
+      "name": "Glow Dust",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Resist Shock",
+        "Fortify Destruction",
+        "Fortify Smithing",
+        "Fortify Health"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 5
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/71/SR-icon-ingredient-Glowing_Mushroom.png/48px-SR-icon-ingredient-Glowing_Mushroom.png",
+      "value": 5,
+      "name": "Glowing Mushroom",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Resist Poison",
+        "Ravage Magicka",
+        "Fortify Alteration",
+        "Restore Magicka"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/78/SR-icon-ingredient-Grass_Pod.png/48px-SR-icon-ingredient-Grass_Pod.png",
+      "value": 1,
+      "name": "Grass Pod",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Resist Magic",
+        "Lingering Damage Magicka",
+        "Fortify Enchanting",
+        "Fortify Barter"
+      ],
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/3/30/SR-icon-ingredient-Hagraven_Claw.png/48px-SR-icon-ingredient-Hagraven_Claw.png",
+      "value": 20,
+      "name": "Hagraven Claw",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Damage Magicka",
+        "Fortify Conjuration",
+        "Frenzy",
+        "Weakness to Shock"
+      ],
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/d/d8/SR-icon-ingredient-Hagraven_Feathers.png/48px-SR-icon-ingredient-Hagraven_Feathers.png",
+      "value": 20,
+      "name": "Hagraven Feathers",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Damage Magicka",
+        "Fortify Health",
+        "Damage Magicka Regen",
+        "Fortify One-handed"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/2/22/SR-icon-ingredient-Hanging_Moss.png/48px-SR-icon-ingredient-Hanging_Moss.png",
+      "value": 1,
+      "name": "Hanging Moss",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Resist Frost",
+        "Fortify Carry Weight",
+        "Resist Shock"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/6/69/SR-icon-ingredient-Hawk_Beak.png/48px-SR-icon-ingredient-Hawk_Beak.png",
+      "value": 15,
+      "name": "Hawk Beak",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Cure Disease",
+        "Fortify Light Armor",
+        "Fortify One-handed",
+        "Fortify Sneak"
+      ],
+      "extra": {
+        "0": {
+          "value": 0.36
+        }
+      },
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/5/5c/SR-icon-ingredient-Hawk_Feathers.png/48px-SR-icon-ingredient-Hawk_Feathers.png",
+      "value": 15,
+      "name": "Hawk Feathers",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Resist Magic",
+        "Damage Magicka Regen",
+        "Waterbreathing",
+        "Lingering Damage Stamina"
+      ],
+      "image": "http://images.uesp.net/thumb/4/41/SR-icon-ingredient-Hawk%27s_Egg.png/48px-SR-icon-ingredient-Hawk%27s_Egg.png",
+      "value": 5,
+      "name": "Hawk's Egg",
+      "weight": 0.5,
+      "dlc": "hf"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Magicka",
+        "Damage Stamina Regen",
+        "Waterbreathing"
+      ],
+      "source": {
+        "traderarity": "common",
+        "hatchery": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/e/ec/SR-icon-ingredient-Histcarp.png/48px-SR-icon-ingredient-Histcarp.png",
+      "value": 6,
+      "name": "Histcarp",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Block",
+        "Fortify Light Armor",
+        "Ravage Stamina"
+      ],
+      "extra": {
+        "1": {
+          "magnitude": 0.5
+        }
+      },
+      "source": {
+        "merchantperk": true,
+        "traderarity": "common"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/e/e0/SR-icon-ingredient-Honeycomb.png/48px-SR-icon-ingredient-Honeycomb.png",
+      "value": 5,
+      "name": "Honeycomb",
+      "weight": 1.0
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Paralysis",
+        "Restore Magicka",
+        "Fortify Sneak"
+      ],
+      "image": "http://www.uesp.net/w/images/thumb/9/9d/SR-icon-ingredient-Human_Flesh.png/48px-SR-icon-ingredient-Human_Flesh.png",
+      "value": 1,
+      "name": "Human Flesh",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Damage Magicka",
+        "Damage Magicka Regen",
+        "Frenzy"
+      ],
+      "image": "http://www.uesp.net/w/images/thumb/f/f6/SR-icon-ingredient-Human_Heart.png/48px-SR-icon-ingredient-Human_Heart.png",
+      "value": 0,
+      "name": "Human Heart",
+      "weight": 1.0
+    },
+    {
+      "effects": [
+        "Weakness to Frost",
+        "Fortify Heavy Armor",
+        "Invisibility",
+        "Weakness to Fire"
+      ],
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/9/95/SR-icon-ingredient-Ice_Wraith_Teeth.png/48px-SR-icon-ingredient-Ice_Wraith_Teeth.png",
+      "value": 30,
+      "name": "Ice Wraith Teeth",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Lingering Damage Health",
+        "Paralysis",
+        "Restore Health"
+      ],
+      "extra": {
+        "3": {
+          "magnitude": 0.6,
+          "value": 0.57
+        }
+      },
+      "source": {
+        "traderarity": "rare",
+        "garden": 4
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/77/SR-icon-ingredient-Imp_Stool.png/48px-SR-icon-ingredient-Imp_Stool.png",
+      "value": 0,
+      "name": "Imp Stool",
+      "weight": 0.3
+    },
+    {
+      "effects": [
+        "Weakness to Magic",
+        "Fortify Magicka",
+        "Regenerate Magicka",
+        "Ravage Health"
+      ],
+      "source": {
+        "traderarity": "rare",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/5/50/SR-icon-ingredient-Jazbay_Grapes.png/48px-SR-icon-ingredient-Jazbay_Grapes.png",
+      "value": 1,
+      "name": "Jazbay Grapes",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Weakness to Fire",
+        "Fortify Marksman",
+        "Regenerate Health",
+        "Damage Stamina Regen"
+      ],
+      "source": {
+        "traderarity": "common",
+        "garden": 4
+      },
+      "image": "http://www.uesp.net/w/images/thumb/1/10/SR-icon-ingredient-Juniper_Berries.png/48px-SR-icon-ingredient-Juniper_Berries.png",
+      "value": 1,
+      "name": "Juniper Berries",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Stamina",
+        "Slow",
+        "Damage Stamina Regen"
+      ],
+      "extra": {
+        "2": {
+          "duration": 6,
+          "value": 1.75
+        }
+      },
+      "source": {
+        "merchantperk": true,
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/6/69/SR-icon-ingredient-Large_Antlers.png/48px-SR-icon-ingredient-Large_Antlers.png",
+      "value": 2,
+      "name": "Large Antlers",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Resist Magic",
+        "Fortify Stamina",
+        "Ravage Magicka",
+        "Fortify Conjuration"
+      ],
+      "source": {
+        "traderarity": "common",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/3/30/SR-icon-ingredient-Lavender.png/48px-SR-icon-ingredient-Lavender.png",
+      "value": 1,
+      "name": "Lavender",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Damage Magicka",
+        "Fortify Light Armor",
+        "Regenerate Health",
+        "Invisibility"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "greenhouse": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/f/f6/SR-icon-ingredient-Luna_Moth_Wing.png/48px-SR-icon-ingredient-Luna_Moth_Wing.png",
+      "value": 5,
+      "name": "Luna Moth Wing",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Weakness to Fire",
+        "Resist Frost",
+        "Restore Magicka",
+        "Regenerate Magicka"
+      ],
+      "source": {
+        "khajiit": true,
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/4/48/SR-icon-ingredient-Moon_Sugar.png/48px-SR-icon-ingredient-Moon_Sugar.png",
+      "value": 50,
+      "name": "Moon Sugar",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Lingering Damage Health",
+        "Regenerate Stamina",
+        "Fortify Illusion"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/5/51/SR-icon-ingredient-Mora_Tapinella.png/48px-SR-icon-ingredient-Mora_Tapinella.png",
+      "value": 4,
+      "name": "Mora Tapinella",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Cure Disease",
+        "Resist Poison",
+        "Resist Fire"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "common"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/74/SR-icon-ingredient-Mudcrab_Chitin.png/48px-SR-icon-ingredient-Mudcrab_Chitin.png",
+      "value": 2,
+      "name": "Mudcrab Chitin",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Damage Magicka",
+        "Fortify Lockpicking",
+        "Fear",
+        "Regenerate Health"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/5/59/SR-icon-ingredient-Namira%27s_Rot.png/48px-SR-icon-ingredient-Namira%27s_Rot.png",
+      "value": 0,
+      "name": "Namira's Rot",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Paralysis",
+        "Fortify Carry Weight",
+        "Restore Stamina",
+        "Fear"
+      ],
+      "extra": {
+        "2": {
+          "magnitude": 2
+        }
+      },
+      "image": "http://images.uesp.net/thumb/9/9a/SR-icon-ingredient-Netch_Jelly.png/48px-SR-icon-ingredient-Netch_Jelly.png",
+      "value": 20,
+      "name": "Netch Jelly",
+      "weight": 0.5,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Damage Magicka Regen",
+        "Lingering Damage Stamina",
+        "Fortify Destruction"
+      ],
+      "extra": {
+        "3": {
+          "magnitude": 0.8
+        }
+      },
+      "source": {
+        "traderarity": "rare",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/6/6f/SR-icon-ingredient-Nightshade.png/48px-SR-icon-ingredient-Nightshade.png",
+      "value": 8,
+      "name": "Nightshade",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Damage Stamina",
+        "Invisibility",
+        "Resist Magic"
+      ],
+      "extra": {
+        "0": {
+          "value": 12.6
+        }
+      },
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/5/55/SR-icon-ingredient-Crimson_Nirnroot.png/48px-SR-icon-ingredient-Crimson_Nirnroot.png",
+      "value": 10,
+      "name": "Nirnroot",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Damage Magicka",
+        "Waterbreathing",
+        "Regenerate Health",
+        "Fortify Pickpocket"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/75/SR-icon-ingredient-Nordic_Barnacle.png/48px-SR-icon-ingredient-Nordic_Barnacle.png",
+      "value": 5,
+      "name": "Nordic Barnacle",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Ravage Magicka",
+        "Fortify Pickpocket",
+        "Lingering Damage Health"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "common",
+        "hatchery": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/e/e7/SR-icon-ingredient-Orange_Dartwing.png/48px-SR-icon-ingredient-Orange_Dartwing.png",
+      "value": 1,
+      "name": "Orange Dartwing",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Block",
+        "Restore Magicka",
+        "Resist Shock"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/a/ad/SR-icon-ingredient-Pearl.png/48px-SR-icon-ingredient-Pearl.png",
+      "value": 2,
+      "name": "Pearl",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Lockpicking",
+        "Weakness to Poison",
+        "Resist Shock"
+      ],
+      "source": {
+        "traderarity": "common"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/0/0f/SR-icon-ingredient-Pine_Thrush_Egg.png/48px-SR-icon-ingredient-Pine_Thrush_Egg.png",
+      "value": 2,
+      "name": "Pine Thrush Egg",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Slow",
+        "Fortify Carry Weight",
+        "Fear"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5
+        }
+      },
+      "image": "http://images.uesp.net/thumb/1/13/SR-icon-ingredient-Poison_Bloom.png/48px-SR-icon-ingredient-Poison_Bloom.png",
+      "value": 5,
+      "name": "Poison Bloom",
+      "weight": 0.25,
+      "dlc": "dg"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Sneak",
+        "Weakness to Fire",
+        "Fear"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/c/c9/SR-icon-ingredient-Powdered_Mammoth_Tusk.png/48px-SR-icon-ingredient-Powdered_Mammoth_Tusk.png",
+      "value": 2,
+      "name": "Powdered Mammoth Tusk",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Sneak",
+        "Lingering Damage Magicka",
+        "Resist Frost"
+      ],
+      "source": {
+        "traderarity": "common",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/e/e1/SR-icon-ingredient-Purple_Mountain_Flower.png/48px-SR-icon-ingredient-Purple_Mountain_Flower.png",
+      "value": 2,
+      "name": "Purple Mountain Flower",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Ravage Magicka",
+        "Fortify Magicka",
+        "Damage Health"
+      ],
+      "source": {
+        "traderarity": "common",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/b/bb/SR-icon-ingredient-Red_Mountain_Flower.png/48px-SR-icon-ingredient-Red_Mountain_Flower.png",
+      "value": 2,
+      "name": "Red Mountain Flower",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Fortify Alteration",
+        "Slow",
+        "Fortify Carry Weight"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 2.5
+        }
+      },
+      "source": {
+        "traderarity": "common",
+        "hatchery": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/2/25/SR-icon-ingredient-River_Betty.png/48px-SR-icon-ingredient-River_Betty.png",
+      "value": 15,
+      "name": "River Betty",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify One-handed",
+        "Damage Stamina",
+        "Weakness to Magic"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/f/fc/SR-icon-ingredient-Rock_Warbler_Egg.png/48px-SR-icon-ingredient-Rock_Warbler_Egg.png",
+      "value": 2,
+      "name": "Rock Warbler Egg",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Heavy Armor",
+        "Fortify Smithing",
+        "Weakness to Poison"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/1/1b/SR-icon-ingredient-Sabre_Cat_Tooth.png/48px-SR-icon-ingredient-Sabre_Cat_Tooth.png",
+      "value": 2,
+      "name": "Sabre Cat Tooth",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Waterbreathing",
+        "Fortify Magicka",
+        "Regenerate Magicka"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 0.4,
+          "value": 0.36
+        },
+        "1": {
+          "duration": 12,
+          "value": 15.4
+        },
+        "2": {
+          "magnitude": 12.5,
+          "duration": 0.08,
+          "value": 1.05
+        }
+      },
+      "source": {
+        "hatchery": 6
+      },
+      "image": "http://images.uesp.net/thumb/2/2a/SR-icon-ingredient-Salmon_Roe.png/48px-SR-icon-ingredient-Salmon_Roe.png",
+      "value": 5,
+      "name": "Salmon Roe",
+      "weight": 0.2,
+      "dlc": "hf"
+    },
+    {
+      "effects": [
+        "Weakness to Magic",
+        "Fortify Restoration",
+        "Slow",
+        "Regenerate Magicka"
+      ],
+      "source": {
+        "traderarity": "basic",
+        "khajiit": true
+      },
+      "image": "http://www.uesp.net/w/images/thumb/3/36/SR-icon-ingredient-Salt_Pile.png/48px-SR-icon-ingredient-Salt_Pile.png",
+      "value": 2,
+      "name": "Salt Pile",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Weakness to Magic",
+        "Fortify Illusion",
+        "Regenerate Stamina",
+        "Fortify Carry Weight"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 5
+      },
+      "image": "http://www.uesp.net/w/images/thumb/1/18/SR-icon-ingredient-Scaly_Pholiota.png/48px-SR-icon-ingredient-Scaly_Pholiota.png",
+      "value": 4,
+      "name": "Scaly Pholiota",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Ravage Health",
+        "Ravage Stamina",
+        "Ravage Magicka",
+        "Lingering Damage Health"
+      ],
+      "image": "http://images.uesp.net/thumb/e/eb/SR-icon-ingredient-Scathecraw.png/48px-SR-icon-ingredient-Scathecraw.png",
+      "value": 1,
+      "name": "Scathecraw",
+      "weight": 0.1,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Damage Stamina Regen",
+        "Ravage Health",
+        "Resist Frost"
+      ],
+      "source": {
+        "traderarity": "common",
+        "hatchery": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/3/32/SR-icon-ingredient-Silverside_Perch.png/48px-SR-icon-ingredient-Silverside_Perch.png",
+      "value": 15,
+      "name": "Silverside Perch",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Damage Stamina Regen",
+        "Ravage Health",
+        "Damage Health",
+        "Fortify Light Armor"
+      ],
+      "source": {
+        "traderarity": "common"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/d/dc/SR-icon-ingredient-Skeever_Tail.png/48px-SR-icon-ingredient-Skeever_Tail.png",
+      "value": 3,
+      "name": "Skeever Tail",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Resist Poison",
+        "Fortify Pickpocket",
+        "Lingering Damage Health",
+        "Fortify Stamina"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "hatchery": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/8/84/SR-icon-ingredient-Slaughterfish_Egg.png/48px-SR-icon-ingredient-Slaughterfish_Egg.png",
+      "value": 3,
+      "name": "Slaughterfish Egg",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Resist Frost",
+        "Lingering Damage Health",
+        "Fortify Heavy Armor",
+        "Fortify Block"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/0/0f/SR-icon-ingredient-Slaughterfish_Scales.png/48px-SR-icon-ingredient-Slaughterfish_Scales.png",
+      "value": 3,
+      "name": "Slaughterfish Scales",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Weakness to Poison",
+        "Fortify Restoration",
+        "Lingering Damage Stamina",
+        "Damage Health"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "common"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/4/4e/SR-icon-ingredient-Small_Antlers.png/48px-SR-icon-ingredient-Small_Antlers.png",
+      "value": 2,
+      "name": "Small Antlers",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify One-handed",
+        "Fortify Restoration",
+        "Resist Frost"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/8/8f/SR-icon-ingredient-Small_Pearl.png/48px-SR-icon-ingredient-Small_Pearl.png",
+      "value": 2,
+      "name": "Small Pearl",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Resist Fire",
+        "Fortify Enchanting",
+        "Resist Frost",
+        "Resist Shock"
+      ],
+      "source": {
+        "traderarity": "common",
+        "garden": 4
+      },
+      "image": "http://www.uesp.net/w/images/thumb/d/d3/SR-icon-ingredient-Snowberries.png/48px-SR-icon-ingredient-Snowberries.png",
+      "value": 4,
+      "name": "Snowberries",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Ravage Stamina",
+        "Resist Fire",
+        "Fortify Enchanting",
+        "Ravage Magicka"
+      ],
+      "image": "http://images.uesp.net/thumb/0/0c/SR-icon-ingredient-Spawn_Ash.png/48px-SR-icon-ingredient-Spawn_Ash.png",
+      "value": 20,
+      "name": "Spawn Ash",
+      "weight": 0.1,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Damage Magicka Regen",
+        "Fortify Lockpicking",
+        "Fortify Marksman"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/0/07/SR-icon-ingredient-Spider_Egg.png/48px-SR-icon-ingredient-Spider_Egg.png",
+      "value": 5,
+      "name": "Spider Egg",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Damage Magicka Regen",
+        "Fortify Enchanting",
+        "Fortify Smithing",
+        "Fortify Alteration"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/d/d6/SR-icon-ingredient-Spriggan_Sap.png/48px-SR-icon-ingredient-Spriggan_Sap.png",
+      "value": 15,
+      "name": "Spriggan Sap",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Resist Shock",
+        "Lingering Damage Magicka",
+        "Paralysis",
+        "Restore Health"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/9/92/SR-icon-ingredient-Swamp_Fungal_Pod.png/48px-SR-icon-ingredient-Swamp_Fungal_Pod.png",
+      "value": 5,
+      "name": "Swamp Fungal Pod",
+      "weight": 0.25
+    },
+    {
+      "effects": [
+        "Weakness to Magic",
+        "Fortify Illusion",
+        "Regenerate Magicka",
+        "Restore Magicka"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/78/SR-icon-ingredient-Taproot.png/48px-SR-icon-ingredient-Taproot.png",
+      "value": 15,
+      "name": "Taproot",
+      "weight": 0.5
+    },
+    {
+      "effects": [
+        "Resist Frost",
+        "Ravage Stamina",
+        "Resist Poison",
+        "Fortify Heavy Armor"
+      ],
+      "extra": {
+        "2": {
+          "magnitude": 0.75,
+          "duration": 0,
+          "value": 0.1
+        }
+      },
+      "source": {
+        "traderarity": "common",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/b/bf/SR-icon-ingredient-Thistle_Branch.png/48px-SR-icon-ingredient-Thistle_Branch.png",
+      "value": 1,
+      "name": "Thistle Branch",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Lingering Damage Magicka",
+        "Weakness to Magic",
+        "Fortify Stamina"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "common",
+        "greenhouse": 6
+      },
+      "image": "http://www.uesp.net/w/images/thumb/9/99/SR-icon-ingredient-Torchbug_Thorax.png/48px-SR-icon-ingredient-Torchbug_Thorax.png",
+      "value": 1,
+      "name": "Torchbug Thorax",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Weakness to Shock",
+        "Fortify Carry Weight",
+        "Damage Magicka",
+        "Slow"
+      ],
+      "image": "http://images.uesp.net/thumb/1/1e/SR-icon-ingredient-Trama_Root.png/48px-SR-icon-ingredient-Trama_Root.png",
+      "value": 1,
+      "name": "Trama Root",
+      "weight": 0.2,
+      "dlc": "db"
+    },
+    {
+      "effects": [
+        "Resist Poison",
+        "Fortify Two-handed",
+        "Frenzy",
+        "Damage Health"
+      ],
+      "source": {
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/8/8a/SR-icon-ingredient-Troll_Fat.png/48px-SR-icon-ingredient-Troll_Fat.png",
+      "value": 15,
+      "name": "Troll Fat",
+      "weight": 1.0
+    },
+    {
+      "effects": [
+        "Resist Magic",
+        "Fortify Magicka",
+        "Fortify Block",
+        "Fortify Barter"
+      ],
+      "source": {
+        "traderarity": "common",
+        "garden": 3
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/7e/SR-icon-ingredient-Tundra_Cotton.png/48px-SR-icon-ingredient-Tundra_Cotton.png",
+      "value": 1,
+      "name": "Tundra Cotton",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Invisibility",
+        "Restore Magicka",
+        "Regenerate Health",
+        "Cure Disease"
+      ],
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/2/2f/SR-icon-ingredient-Vampire_Dust.png/48px-SR-icon-ingredient-Vampire_Dust.png",
+      "value": 25,
+      "name": "Vampire Dust",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Weakness to Shock",
+        "Resist Magic",
+        "Damage Health",
+        "Fortify Magicka"
+      ],
+      "source": {
+        "traderarity": "rare"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/77/SR-icon-ingredient-Void_Salts.png/48px-SR-icon-ingredient-Void_Salts.png",
+      "value": 125,
+      "name": "Void Salts",
+      "weight": 0.2
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify Health",
+        "Damage Stamina Regen",
+        "Lingering Damage Magicka"
+      ],
+      "source": {
+        "traderarity": "common",
+        "garden": 4
+      },
+      "image": "http://www.uesp.net/w/images/thumb/7/7f/SR-icon-ingredient-Wheat.png/48px-SR-icon-ingredient-Wheat.png",
+      "value": 5,
+      "name": "Wheat",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Weakness to Frost",
+        "Fortify Heavy Armor",
+        "Restore Magicka",
+        "Ravage Magicka"
+      ],
+      "source": {
+        "traderarity": "uncommon",
+        "garden": 2
+      },
+      "image": "http://www.uesp.net/w/images/thumb/f/fa/SR-icon-ingredient-White_Cap.png/48px-SR-icon-ingredient-White_Cap.png",
+      "value": 0,
+      "name": "White Cap",
+      "weight": 0.3
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Destruction",
+        "Fortify Carry Weight",
+        "Resist Magic"
+      ],
+      "source": {
+        "merchantperk": true,
+        "traderarity": "uncommon"
+      },
+      "image": "http://www.uesp.net/w/images/thumb/9/9d/SR-icon-ingredient-Wisp_Wrappings.png/48px-SR-icon-ingredient-Wisp_Wrappings.png",
+      "value": 2,
+      "name": "Wisp Wrappings",
+      "weight": 0.1
+    },
+    {
+      "effects": [
+        "Resist Poison",
+        "Fortify Restoration",
+        "Fortify Health",
+        "Damage Stamina Regen"
+      ],
+      "extra": {
+        "1": {
+          "magnitude": 1.25
+        }
+      },
+      "image": "http://images.uesp.net/thumb/6/6e/SR-icon-ingredient-Yellow_Mountain_Flower.png/48px-SR-icon-ingredient-Yellow_Mountain_Flower.png",
+      "value": 2,
+      "name": "Yellow Mountain Flower",
+      "weight": 0.1,
+      "dlc": "dg"
+    },
+    {
+      "effects": [
+        "Regenerate Stamina",
+        "Light",
+        "Ravage Magicka",
+        "Regenerate Health"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "2": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "image": "http://images.uesp.net/thumb/3/34/SR-icon-ingredient-Alocasia_Fruit.png/48px-SR-icon-ingredient-Alocasia_Fruit.png",
+      "value": 22,
+      "name": "Alocasia Fruit",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Regenerate Health",
+        "Fortify Health",
+        "Cure Poison"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "2": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "3": {
+          "value": 1.56
+        }
+      },
+      "image": "http://images.uesp.net/thumb/7/71/SR-icon-ingredient-Ambrosia.png/48px-SR-icon-ingredient-Ambrosia.png",
+      "value": 15,
+      "name": "Ambrosia",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Regenerate Health",
+        "Resist Fire",
+        "Fortify Marksman",
+        "Waterbreathing"
+      ],
+      "image": "http://images.uesp.net/thumb/b/b9/SR-icon-ingredient-Angelfish.png/48px-SR-icon-ingredient-Angelfish.png",
+      "value": 30,
+      "name": "Angelfish",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Lingering Damage Health",
+        "Regenerate Stamina",
+        "Waterbreathing",
+        "Fortify Two-handed"
+      ],
+      "image": "http://images.uesp.net/thumb/5/59/SR-icon-ingredient-Angler_Larvae.png/48px-SR-icon-ingredient-Angler_Larvae.png",
+      "value": 1,
+      "name": "Angler Larvae",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Resist Magic",
+        "Fortify Light Armor",
+        "Fortify Block",
+        "Paralysis"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "1": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "3": {
+          "duration": 2,
+          "value": 2.14
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/8/8c/SR-icon-ingredient-Aster_Bloom_Core.png/48px-SR-icon-ingredient-Aster_Bloom_Core.png",
+      "value": 40,
+      "name": "Aster Bloom Core",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Lingering Damage Stamina",
+        "Invisibility",
+        "Cure Poison",
+        "Damage Magicka"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "1": {
+          "duration": 1.5,
+          "value": 1.56
+        },
+        "3": {
+          "magnitude": 1.5,
+          "value": 1.56
+        }
+      },
+      "image": "http://images.uesp.net/thumb/1/10/SR-icon-ingredient-Bittergreen_Petals.png/48px-SR-icon-ingredient-Bittergreen_Petals.png",
+      "value": 25,
+      "name": "Bittergreen Petals",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Light",
+        "Fortify Magicka",
+        "Fortify Alteration",
+        "Spell Absorption"
+      ],
+      "extra": {
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "2": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/0/0a/SR-icon-ingredient-Blind_Watcher%27s_Eye.png/48px-SR-icon-ingredient-Blind_Watcher%27s_Eye.png",
+      "value": 9,
+      "name": "Blind Watcher's Eye",
+      "weight": 0.2,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Weakness to Fire",
+        "Resist Fire",
+        "Fortify Heavy Armor",
+        "Fortify Illusion"
+      ],
+      "extra": {
+        "3": {
+          "magnitude": 0.25,
+          "value": 0.21
+        }
+      },
+      "image": "http://images.uesp.net/thumb/5/59/SR-icon-ingredient-Bliss_Bug_Thorax.png/48px-SR-icon-ingredient-Bliss_Bug_Thorax.png",
+      "value": 1,
+      "name": "Bliss Bug Thorax",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Fortify Magicka",
+        "Night Eye",
+        "Invisibility"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "3": {
+          "duration": 1.5,
+          "value": 1.56
+        }
+      },
+      "image": "http://images.uesp.net/thumb/2/29/SR-icon-ingredient-Blister_Pod_Cap.png/48px-SR-icon-ingredient-Blister_Pod_Cap.png",
+      "value": 25,
+      "name": "Blister Pod Cap",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Invisibility",
+        "Resist Poison",
+        "Slow",
+        "Fortify Health"
+      ],
+      "extra": {
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://static.wikia.nocookie.net/elderscrolls/images/7/7b/Bloodgrass.png/revision/latest/scale-to-width-down/440?cb=20120209002651",
+      "value": 25,
+      "name": "Bloodgrass",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Fortify Heavy Armor",
+        "Fear",
+        "Damage Stamina"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "2": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "3": {
+          "magnitude": 1.33,
+          "value": 1.36
+        }
+      },
+      "image": "http://images.uesp.net/thumb/2/2b/SR-icon-ingredient-Bog_Beacon.png/48px-SR-icon-ingredient-Bog_Beacon.png",
+      "value": 20,
+      "name": "Bog Beacon",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Slow",
+        "Ravage Stamina",
+        "Damage Stamina Regen",
+        "Resist Magic"
+      ],
+      "extra": {
+        "0": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "1": {
+          "magnitude": 1.5,
+          "value": 3.34
+        },
+        "2": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "3": {
+          "magnitude": 2,
+          "value": 2.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/4/43/SR-icon-ingredient-Bungler%27s_Bane.png/48px-SR-icon-ingredient-Bungler%27s_Bane.png",
+      "value": 50,
+      "name": "Bungler's Bane",
+      "weight": 0.5,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Ravage Health",
+        "Lingering Damage Health",
+        "Weakness to Poison"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "magnitude": 1.5,
+          "value": 3.34
+        },
+        "2": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "3": {
+          "magnitude": 1.5,
+          "value": 1.56
+        }
+      },
+      "image": "http://images.uesp.net/thumb/2/2f/SR-icon-ingredient-Chokeberry.png/48px-SR-icon-ingredient-Chokeberry.png",
+      "value": 15,
+      "name": "Chokeberry",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Weakness to Frost",
+        "Restore Stamina",
+        "Cure Disease",
+        "Damage Magicka"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "value": 1.37
+        },
+        "1": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "2": {
+          "value": 0.36
+        },
+        "3": {
+          "magnitude": 1.33,
+          "value": 1.37
+        }
+      },
+      "image": "http://images.uesp.net/thumb/4/40/SR-icon-ingredient-Chokeweed.png/48px-SR-icon-ingredient-Chokeweed.png",
+      "value": 7,
+      "name": "Chokeweed",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Lingering Damage Stamina",
+        "Ravage Magicka",
+        "Fortify Carry Weight"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://images.uesp.net/thumb/7/78/SR-icon-ingredient-Coda_Flower.png/48px-SR-icon-ingredient-Coda_Flower.png",
+      "value": 30,
+      "name": "Coda Flower",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Stamina",
+        "Spell Absorption",
+        "Restore Magicka",
+        "Fortify Destruction"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "2": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/2/20/SR-icon-ingredient-Comberry.png/48px-SR-icon-ingredient-Comberry.png",
+      "value": 12,
+      "name": "Comberry",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Ravage Health",
+        "Restore Magicka",
+        "Weakness to Fire",
+        "Fortify Conjuration"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 3.34
+        },
+        "1": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "2": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "image": "http://images.uesp.net/thumb/9/91/SR-icon-ingredient-Congealed_Putrescence.png/48px-SR-icon-ingredient-Congealed_Putrescence.png",
+      "value": 9,
+      "name": "Congealed Putrescence",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Paralysis",
+        "Restore Health",
+        "Resist Shock",
+        "Fortify Marksman"
+      ],
+      "extra": {
+        "0": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "1": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "2": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/a/a4/SR-icon-ingredient-Corkbulb_Root.png/48px-SR-icon-ingredient-Corkbulb_Root.png",
+      "value": 30,
+      "name": "Corkbulb Root",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Lingering Damage Stamina",
+        "Paralysis",
+        "Night Eye",
+        "Invisibility"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "1": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "3": {
+          "duration": 1.5,
+          "value": 1.56
+        }
+      },
+      "image": "http://images.uesp.net/thumb/b/b6/SR-icon-ingredient-Daedra_Silk.png/48px-SR-icon-ingredient-Daedra_Silk.png",
+      "value": 50,
+      "name": "Daedra Silk",
+      "weight": 0.5,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Ravage Health",
+        "Paralysis",
+        "Fortify Destruction",
+        "Spell Absorption"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 3.34
+        },
+        "1": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "image": "http://images.uesp.net/thumb/7/71/SR-icon-ingredient-Daedra_Venin.png/48px-SR-icon-ingredient-Daedra_Venin.png",
+      "value": 50,
+      "name": "Daedra Venin",
+      "weight": 0.2,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Resist Frost",
+        "Light",
+        "Damage Magicka Regen",
+        "Regenerate Stamina"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "2": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/c/cb/SR-icon-ingredient-Daedroth_Teeth.png/48px-SR-icon-ingredient-Daedroth_Teeth.png",
+      "value": 50,
+      "name": "Daedroth Teeth",
+      "weight": 0.5,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Weakness to Magic",
+        "Frenzy",
+        "Fortify Enchanting",
+        "Fortify Smithing"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://images.uesp.net/thumb/4/44/SR-icon-ingredient-Dreugh_Wax.png/48px-SR-icon-ingredient-Dreugh_Wax.png",
+      "value": 25,
+      "name": "Dreugh Wax",
+      "weight": 1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Invisibility",
+        "Slow",
+        "Fear"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "duration": 1.5,
+          "value": 1.56
+        },
+        "2": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "3": {
+          "magnitude": 2,
+          "value": 2.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/0/07/SR-icon-ingredient-Elytra_Ichor.png/48px-SR-icon-ingredient-Elytra_Ichor.png",
+      "value": 30,
+      "name": "Elytra Ichor",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Resist Fire",
+        "Spell Absorption",
+        "Paralysis"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "3": {
+          "duration": 2,
+          "value": 2.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/0/06/SR-icon-ingredient-Fire_Petal.png/48px-SR-icon-ingredient-Fire_Petal.png",
+      "value": 30,
+      "name": "Fire Petal",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Resist Frost",
+        "Weakness to Fire",
+        "Invisibility"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "2": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "3": {
+          "duration": 1.5,
+          "value": 1.56
+        }
+      },
+      "image": "http://images.uesp.net/thumb/4/49/SR-icon-ingredient-Flame_Stalk.png/48px-SR-icon-ingredient-Flame_Stalk.png",
+      "value": 25,
+      "name": "Flame Stalk",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Fortify Health",
+        "Fortify Stamina",
+        "Waterbreathing"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.25,
+          "duration": 5,
+          "value": 7.5
+        },
+        "2": {
+          "magnitude": 1.25,
+          "duration": 5,
+          "value": 7.5
+        },
+        "3": {
+          "duration": 1.6,
+          "value": 1.67
+        }
+      },
+      "image": "http://images.uesp.net/thumb/1/15/SR-icon-ingredient-Fungus_Stalk.png/48px-SR-icon-ingredient-Fungus_Stalk.png",
+      "value": 30,
+      "name": "Fungus Stalk",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Invisibility",
+        "Fortify Illusion",
+        "Fortify Persuasion"
+      ],
+      "extra": {
+        "2": {
+          "magnitude": 0.25,
+          "value": 0.21
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/1/1e/SR-icon-ingredient-Glassfish.png/48px-SR-icon-ingredient-Glassfish.png",
+      "value": 1,
+      "name": "Glassfish",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Regenerate Health",
+        "Fortify Heavy Armor",
+        "Resist Fire"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "2": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "3": {
+          "magnitude": 1.33,
+          "value": 1.36
+        }
+      },
+      "image": "http://images.uesp.net/thumb/2/22/SR-icon-ingredient-Gnarl_Bark.png/48px-SR-icon-ingredient-Gnarl_Bark.png",
+      "value": 15,
+      "name": "Gnarl Bark",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Heavy Armor",
+        "Waterbreathing",
+        "Resist Frost"
+      ],
+      "image": "http://images.uesp.net/thumb/a/a1/SR-icon-ingredient-Goldfish.png/48px-SR-icon-ingredient-Goldfish.png",
+      "value": 10,
+      "name": "Goldfish",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Paralysis",
+        "Ravage Health",
+        "Weakness to Frost",
+        "Fortify Smithing"
+      ],
+      "extra": {
+        "0": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "1": {
+          "magnitude": 1.5,
+          "value": 3.34
+        },
+        "2": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://images.uesp.net/thumb/2/20/SR-icon-ingredient-Gold_Kanet.png/48px-SR-icon-ingredient-Gold_Kanet.png",
+      "value": 30,
+      "name": "Gold Kanet",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Fear",
+        "Slow",
+        "Invisibility"
+      ],
+      "extra": {
+        "2": {
+          "duration": 6,
+          "value": 0.57
+        }
+      },
+      "image": "http://images.uesp.net/thumb/f/fb/SR-icon-ingredient-Green_Butterfly_Wing.png/48px-SR-icon-ingredient-Green_Butterfly_Wing.png",
+      "value": 25,
+      "name": "Green Butterfly Wing",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Paralysis",
+        "Waterbreathing",
+        "Fortify Restoration"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "2": {
+          "duration": 1.6,
+          "value": 1.67
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://images.uesp.net/thumb/7/71/SR-icon-ingredient-Hackle-Lo_Leaf.png/48px-SR-icon-ingredient-Hackle-Lo_Leaf.png",
+      "value": 30,
+      "name": "Hackle-Lo Leaf",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Damage Magicka",
+        "Paralysis",
+        "Damage Magicka Regen"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "1": {
+          "magnitude": 1.33,
+          "value": 1.36
+        }
+      },
+      "image": "http://static.wikia.nocookie.net/elderscrolls/images/1/16/Harrada.png/revision/latest/scale-to-width-down/1000?cb=20121229165556",
+      "value": 25,
+      "name": "Harrada",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify Health",
+        "Fortify One-handed",
+        "Fortify Two-handed"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.25,
+          "duration": 5,
+          "value": 7.5
+        },
+        "2": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://images.uesp.net/thumb/3/3d/SR-icon-ingredient-Heart_of_Order.png/48px-SR-icon-ingredient-Heart_of_Order.png",
+      "value": 40,
+      "name": "Heart of Order",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Weakness to Fire",
+        "Cure Disease",
+        "Cure Poison",
+        "Fortify Magicka"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "duration": 2,
+          "value": 2.93
+        },
+        "1": {
+          "value": 0.36
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://images.uesp.net/thumb/7/71/SR-icon-ingredient-Hunger_Tongue.png/48px-SR-icon-ingredient-Hunger_Tongue.png",
+      "value": 10,
+      "name": "Hunger Tongue",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Resist Frost",
+        "Fortify Health",
+        "Regenerate Health",
+        "Light"
+      ],
+
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "1": {
+          "magnitude": 1.25,
+          "duration": 5,
+          "value": 7.5
+        },
+        "2": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "image": "http://images.uesp.net/thumb/4/4c/SR-icon-ingredient-Hydnum_Azure_Giant_Spore.png/48px-SR-icon-ingredient-Hydnum_Azure_Giant_Spore.png",
+      "value": 30,
+      "name": "Hydnum Azure Giant Spore",
+      "weight": 0.5,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Weakness to Poison",
+        "Frenzy",
+        "Ravage Stamina",
+        "Resist Magic"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 1.5,
+          "value": 3.34
+        },
+        "3": {
+          "magnitude": 2,
+          "value": 2.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/6/68/SR-icon-ingredient-Hypha_Facia.png/48px-SR-icon-ingredient-Hypha_Facia.png",
+      "value": 23,
+      "name": "Hypha Facia",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Weakness to Fire",
+        "Fortify Barter",
+        "Cure Poison"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "2": {
+          "magnitude": 2,
+          "value": 2.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/3/3a/SR-icon-ingredient-Imp_Gall.png/48px-SR-icon-ingredient-Imp_Gall.png",
+      "value": 15,
+      "name": "Imp Gall",
+      "weight": 0.2,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Resist Fire",
+        "Damage Stamina",
+        "Restore Magicka"
+      ],
+      "image": "http://images.uesp.net/a/ac/SR-flora-Ironwood_Tree.jpg",
+      "value": 5,
+      "name": "Ironwood Fruit",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Regenerate Stamina",
+        "Fortify Carry Weight",
+        "Cure Disease",
+        "Fortify Two-handed"
+      ],
+      "image": "http://images.uesp.net/thumb/8/80/SR-ingredient-Juvenile_Mudcrab.png/48px-SR-ingredient-Juvenile_Mudcrab.png",
+      "value": 10,
+      "name": "Juvenile Mudcrab",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Lingering Damage Stamina",
+        "Night Eye",
+        "Fortify Carry Weight",
+        "Resist Shock"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "3": {
+          "magnitude": 1.33,
+          "value": 1.36
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/8/81/SR-icon-ingredient-Kagouti_Hide.png/48px-SR-icon-ingredient-Kagouti_Hide.png",
+      "value": 20,
+      "name": "Kagouti Hide",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Weakness to Magic",
+        "Slow",
+        "Fortify Sneak",
+        "Fortify Pickpocket"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://images.uesp.net/thumb/9/99/SR-icon-ingredient-Kresh_Fiber.png/48px-SR-icon-ingredient-Kresh_Fiber.png",
+      "value": 30,
+      "name": "Kresh Fiber",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Regenerate Magicka",
+        "Fortify Magicka",
+        "Spell Absorption"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "2": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/e/ee/SR-icon-ingredient-Lichor.png/48px-SR-icon-ingredient-Lichor.png",
+      "value": 30,
+      "name": "Lichor",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Lingering Damage Stamina",
+        "Lingering Damage Health",
+        "Waterbreathing",
+        "Fear"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "1": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 1.6,
+          "value": 1.67
+        },
+        "3": {
+          "magnitude": 2,
+          "value": 2.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/6/63/SR-icon-ingredient-Luminous_Russula.png/48px-SR-icon-ingredient-Luminous_Russula.png",
+      "value": 25,
+      "name": "Luminous Russula",
+      "weight": 0.2,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Fortify Alteration",
+        "Fortify Conjuration",
+        "Fortify Carry Weight"
+      ],
+      "image": "http://images.uesp.net/thumb/0/09/SR-icon-ingredient-Lyretail_Anthias.png/48px-SR-icon-ingredient-Lyretail_Anthias.png",
+      "value": 30,
+      "name": "Lyretail Anthias",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify Carry Weight",
+        "Weakness to Magic",
+        "Damage Stamina"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "2": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "3": {
+          "magnitude": 1.33,
+          "value": 1.36
+        }
+      },
+      "image": "http://images.uesp.net/thumb/a/a0/SR-icon-ingredient-Marshmerrow.png/48px-SR-icon-ingredient-Marshmerrow.png",
+      "value": 18,
+      "name": "Marshmerrow",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Resist Poison",
+        "Damage Magicka Regen",
+        "Regenerate Health",
+        "Regenerate Magicka"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "1": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "image": "http://images.uesp.net/thumb/2/27/SR-icon-ingredient-Minotaur_Horn.png/48px-SR-icon-ingredient-Minotaur_Horn.png",
+      "value": 55,
+      "name": "Minotaur Horn",
+      "weight": 5,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Damage Magicka",
+        "Damage Magicka Regen",
+        "Frenzy"
+      ],
+      "image": "http://images.uesp.net/thumb/c/c7/SR-icon-ingredient-Mort_Flesh.png/48px-SR-icon-ingredient-Mort_Flesh.png",
+      "value": 2,
+      "name": "Mort Flesh",
+      "weight": 0.5,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Weakness to Shock",
+        "Resist Poison",
+        "Lingering Damage Magicka",
+        "Regenerate Health"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "2": {
+          "magnitude": 2,
+          "value": 2.12
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "image": "http://images.uesp.net/thumb/2/21/SR-icon-ingredient-Ogre%27s_Teeth.png/48px-SR-icon-ingredient-Ogre%27s_Teeth.png",
+      "value": 50,
+      "name": "Ogre's Teeth",
+      "weight": 3,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Resist Frost",
+        "Fortify Smithing",
+        "Fortify One-handed"
+      ],
+      "image": "http://images.uesp.net/thumb/2/28/SR-icon-ingredient-Pearlfish.png/48px-SR-icon-ingredient-Pearlfish.png",
+      "value": 15,
+      "name": "Pearlfish",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Regenerate Health",
+        "Regenerate Magicka",
+        "Regenerate Stamina",
+        "Paralysis"
+      ],
+      "image": "http://images.uesp.net/thumb/9/9d/SR-icon-ingredient-Purple_Butterfly_Wing.png/48px-SR-icon-ingredient-Purple_Butterfly_Wing.png",
+      "value": 25,
+      "name": "Purple Butterfly Wing",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Lingering Damage Magicka",
+        "Damage Magicka Regen",
+        "Fortify Restoration"
+      ],
+      "image": "http://images.uesp.net/thumb/e/e2/SR-icon-ingredient-Pygmy_Sunfish.png/48px-SR-icon-ingredient-Pygmy_Sunfish.png",
+      "value": 2,
+      "name": "Pygmy Sunfish",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Regenerate Stamina",
+        "Waterbreathing",
+        "Cure Disease",
+        "Fortify Magicka"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "duration": 1.6,
+          "value": 1.67
+        },
+        "2": {
+          "value": 0.36
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://images.uesp.net/thumb/a/a9/SR-icon-ingredient-Red_Kelp_Gas_Bladder.png/48px-SR-icon-ingredient-Red_Kelp_Gas_Bladder.png",
+      "value": 20,
+      "name": "Red Kelp Gas Bladder",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Resist Frost",
+        "Cure Poison",
+        "Damage Health",
+        "Invisibility"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "2": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "3": {
+          "duration": 1.5,
+          "value": 1.56
+        }
+      },
+      "image": "http://images.uesp.net/thumb/1/16/SR-icon-ingredient-Redwort_Flower.png/48px-SR-icon-ingredient-Redwort_Flower.png",
+      "value": 25,
+      "name": "Redwort Flower",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Weakness to Magic",
+        "Fortify Sneak",
+        "Lingering Damage Health",
+        "Cure Poison"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "2": {
+          "magnitude": 2,
+          "value": 2.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/7/76/SR-icon-ingredient-Roobrush.png/48px-SR-icon-ingredient-Roobrush.png",
+      "value": 20,
+      "name": "Roobrush",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Slow",
+        "Lingering Damage Health",
+        "Fear",
+        "Paralysis"
+      ],
+      "extra": {
+        "0": {
+          "duration": 3,
+          "value": 0.26
+        },
+        "1": {
+          "duration": 3,
+          "value": 3.34
+        },
+        "2": {
+          "duration": 0.16,
+          "value": 0.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/9/92/SR-icon-ingredient-Rot_Scale.png/48px-SR-icon-ingredient-Rot_Scale.png",
+      "value": 20,
+      "name": "Rot Scale",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Magicka",
+        "Damage Stamina Regen",
+        "Restore Health"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "2": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "image": "ttps://images.uesp.net/thumb/4/49/SR-icon-ingredient-Saltrice.png/48px-SR-icon-ingredient-Saltrice.png",
+      "value": 6,
+      "name": "Saltrice",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Waterbreathing",
+        "Damage Health",
+        "Lingering Damage Magicka",
+        "Damage Magicka Regen"
+      ],
+      "extra": {
+        "0": {
+          "duration": 1.6,
+          "value": 1.67
+        },
+        "1": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "2": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "3": {
+          "duration": 2,
+          "value": 2.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/d/df/SR-icon-ingredient-Scalon_Fin.png/48px-SR-icon-ingredient-Scalon_Fin.png",
+      "value": 25,
+      "name": "Scalon Fin",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Regenerate Magicka",
+        "Fortify Alteration",
+        "Invisibility",
+        "Regenerate Health"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 4,
+          "duration": 0.2,
+          "value": 0.78
+        },
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "2": {
+          "duration": 0.25,
+          "value": 0.22
+        },
+        "3": {
+          "magnitude": 4,
+          "duration": 0.03,
+          "value": 0.11
+        }
+      },
+      "image": "http://images.uesp.net/thumb/2/2d/SR-icon-ingredient-Screaming_Maw.png/48px-SR-icon-ingredient-Screaming_Maw.png",
+      "value": 20,
+      "name": "Screaming Maw",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Regenerate Magicka",
+        "Cure Poison",
+        "Cure Disease",
+        "Regenerate Stamina"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "2": {
+          "value": 0.36
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "image": "http://images.uesp.net/thumb/4/49/SR-icon-ingredient-Scrib_Jelly.png/48px-SR-icon-ingredient-Scrib_Jelly.png",
+      "value": 20,
+      "name": "Scrib Jelly",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Stamina",
+        "Fortify Stamina",
+        "Paralysis",
+        "Waterbreathing"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "2": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "3": {
+          "magnitude": 1.6,
+          "value": 1.67
+        }
+      },
+      "image": "http://images.uesp.net/thumb/0/01/SR-icon-ingredient-Scrib_Jerky.png/48px-SR-icon-ingredient-Scrib_Jerky.png",
+      "value": 15,
+      "name": "Scrib Jerky",
+      "weight": 0.2,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Resist Fire",
+        "Fear",
+        "Fortify Conjuration",
+        "Fortify Alteration"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "1": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "2": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "3": {
+          "magnitude": 1.25,
+          "value": 1.27
+        }
+      },
+      "image": "http://images.uesp.net/thumb/6/65/SR-icon-ingredient-Sload_Soap.png/48px-SR-icon-ingredient-Sload_Soap.png",
+      "value": 30,
+      "name": "Sload Soap",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify Lockpicking",
+        "Fortify Pickpocket",
+        "Cure Disease"
+      ],
+      "image": "http://images.uesp.net/thumb/1/15/SR-icon-ingredient-Spadefish.png/48px-SR-icon-ingredient-Spadefish.png",
+      "value": 15,
+      "name": "Spadefish",
+      "weight": 0.25,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Damage Magicka",
+        "Weakness to Fire",
+        "Restore Stamina"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 2,
+          "value": 2.14
+        },
+        "1": {
+          "magnitude": 1.33,
+          "value": 1.36
+        }
+      },
+      "image": "http://static.wikia.nocookie.net/elderscrolls/images/e/e8/Spiddal.png/revision/latest?cb=20130103011140",
+      "value": 25,
+      "name": "Spiddal Stick",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Fortify Destruction",
+        "Resist Frost",
+        "Fortify Carry Weight"
+      ],
+      "source": {
+        "khajiit": true,
+        "garden": 3
+      },
+      "image": "http://images.uesp.net/thumb/2/20/SR-flora-Steel-Blue_Entoloma_%28Fertile_Soil%29.jpg/800px-SR-flora-Steel-Blue_Entoloma_%28Fertile_Soil%29.jpg",
+      "value": 2,
+      "name": "Steel-Blue Entoloma",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Weakness to Shock",
+        "Fortify One-handed",
+        "Fortify Magicka",
+        "Fortify Enchanting"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.33,
+          "value": 1.36
+        },
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "2": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "3": {
+          "magnitude": 2,
+          "value": 2.14
+        }
+      },
+      "image": "http://images.uesp.net/thumb/5/52/SR-icon-ingredient-Stoneflower_Petals.png/48px-SR-icon-ingredient-Stoneflower_Petals.png",
+      "value": 15,
+      "name": "Stoneflower Petals",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Lingering Damage Health",
+        "Paralysis",
+        "Regenerate Magicka",
+        "Regenerate Health"
+      ],
+      "extra": {
+        "2": {
+          "magnitude": 0.6,
+          "duration": 0.6,
+          "value": 0.32
+        },
+        "3": {
+          "magnitude": 0.6,
+          "duration": 0.6,
+          "value": 0.32
+        }
+      },
+      "image": "http://images.uesp.net/thumb/1/10/SR-icon-ingredient-Thorn_Hook.png/48px-SR-icon-ingredient-Thorn_Hook.png",
+      "value": 20,
+      "name": "Thorn Hook",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Health",
+        "Fortify Health",
+        "Fortify Stamina",
+        "Regenerate Health"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "1": {
+          "magnitude": 1.25,
+          "duration": 5,
+          "value": 7.5
+        },
+        "2": {
+          "magnitude": 1.25,
+          "duration": 5,
+          "value": 7.5
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "image": "http://images.uesp.net/thumb/5/5a/SR-icon-ingredient-Void_Essence.png/48px-SR-icon-ingredient-Void_Essence.png",
+      "value": 60,
+      "name": "Void Essence",
+      "weight": 0.2,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Night Eye",
+        "Fortify Magicka",
+        "Fortify Illusion",
+        "Spell Absorption"
+      ],
+      "extra": {
+        "1": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "2": {
+          "magnitude": 5,
+          "value": 5.87
+        }
+      },
+      "image": "http://images.uesp.net/thumb/8/87/SR-icon-ingredient-Watcher%27s_Eye.png/48px-SR-icon-ingredient-Watcher%27s_Eye.png",
+      "value": 9,
+      "name": "Watcher's Eye",
+      "weight": 0.2,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Resist Poison",
+        "Ravage Magicka",
+        "Fortify Alteration",
+        "Restore Magicka"
+      ],
+      "image": "http://images.uesp.net/thumb/f/f3/SR-icon-ingredient-Wild_Grass_Pod.png/48px-SR-icon-ingredient-Wild_Grass_Pod.png",
+      "value": 1,
+      "name": "Wild Grass Pod",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Damage Health",
+        "Weakness to Poison",
+        "Frenzy",
+        "Regenerate Stamina"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "1": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "2": {
+          "duration": 2,
+          "value": 2.14
+        },
+        "3": {
+          "magnitude": 1.2,
+          "value": 1.22
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/0/02/SR-icon-ingredient-Wisp_Stalk_Caps.png/48px-SR-icon-ingredient-Wisp_Stalk_Caps.png",
+      "value": 20,
+      "name": "Wisp Stalk Caps",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Restore Magicka",
+        "Spell Absorption",
+        "Fortify Light Armor",
+        "Cure Disease"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.2,
+          "value": 1.22
+        },
+        "2": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "3": {
+          "value": 0.36
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/e/ef/SR-icon-ingredient-Withering_Moon.png/48px-SR-icon-ingredient-Withering_Moon.png",
+      "value": 5,
+      "name": "Withering Moon",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
+        "Fortify Lockpicking",
+        "Night Eye",
+        "Fortify Carry Weight",
+        "Slow"
+      ],
+      "extra": {
+        "0": {
+          "magnitude": 1.5,
+          "value": 1.56
+        },
+        "2": {
+          "magnitude": 1.25,
+          "value": 1.27
+        },
+        "3": {
+          "duration": 2,
+          "value": 2.14
+        }
+      },
+      "source": {
+        "khajiit": true
+      },
+      "image": "http://images.uesp.net/thumb/8/80/SR-icon-ingredient-Worm%27s_Head_Cap.png/48px-SR-icon-ingredient-Worm%27s_Head_Cap.png",
+      "value": 30,
+      "name": "Worm's Head Cap",
+      "weight": 0.2,
+      "dlc": "ae"
+    }
+  ]
+}
