@@ -23,6 +23,10 @@
         "Damage Magicka",
         "Invisibility"
       ],
+      "source": {
+        "khajiit": true,
+        "garden": 2
+      },
       "image": "http://images.uesp.net/thumb/9/91/SR-icon-ingredient-Aloe_Vera_Leaves.png/48px-SR-icon-ingredient-Aloe_Vera_Leaves.png",
       "value": 1,
       "name": "Aloe Vera Leaves",
