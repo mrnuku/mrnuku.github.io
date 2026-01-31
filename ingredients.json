@@ -18,6 +18,19 @@
     },
     {
       "effects": [
+        "Restore Health",
+        "Restore Stamina",
+        "Damage Magicka",
+        "Invisibility"
+      ],
+      "image": "http://images.uesp.net/thumb/9/91/SR-icon-ingredient-Aloe_Vera_Leaves.png/48px-SR-icon-ingredient-Aloe_Vera_Leaves.png",
+      "value": 1,
+      "name": "Aloe Vera Leaves",
+      "weight": 0.1,
+      "dlc": "ae"
+    },
+    {
+      "effects": [
         "Damage Stamina",
         "Fortify Conjuration",
         "Damage Magicka Regen",
