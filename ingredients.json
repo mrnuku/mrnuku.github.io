@@ -2041,7 +2041,7 @@
           "value": 1.27
         }
       },
-      "image": "http://static.wikia.nocookie.net/elderscrolls/images/7/7b/Bloodgrass.png/revision/latest/scale-to-width-down/440?cb=20120209002651",
+      "image": "http://images.uesp.net/thumb/c/c3/SR-icon-ingredient-Bloodgrass.png/48px-SR-icon-ingredient-Bloodgrass.png",
       "value": 25,
       "name": "Bloodgrass",
       "weight": 0.1,
@@ -2697,7 +2697,7 @@
           "value": 1.36
         }
       },
-      "image": "http://static.wikia.nocookie.net/elderscrolls/images/1/16/Harrada.png/revision/latest/scale-to-width-down/1000?cb=20121229165556",
+      "image": "http://images.uesp.net/thumb/8/87/SR-icon-ingredient-Harrada.png/48px-SR-icon-ingredient-Harrada.png",
       "value": 25,
       "name": "Harrada",
       "weight": 0.1,
@@ -2856,7 +2856,7 @@
         "Damage Stamina",
         "Restore Magicka"
       ],
-      "image": "http://images.uesp.net/a/ac/SR-flora-Ironwood_Tree.jpg",
+      "image": "http://images.uesp.net/thumb/a/ab/SR-icon-ingredient-Ironwood_Fruit.png/48px-SR-icon-ingredient-Ironwood_Fruit.png",
       "value": 5,
       "name": "Ironwood Fruit",
       "weight": 0.1,
@@ -3479,7 +3479,7 @@
           "value": 1.36
         }
       },
-      "image": "http://static.wikia.nocookie.net/elderscrolls/images/e/e8/Spiddal.png/revision/latest?cb=20130103011140",
+      "image": "http://images.uesp.net/thumb/2/2a/SR-icon-ingredient-Spiddal_Stick.png/48px-SR-icon-ingredient-Spiddal_Stick.png",
       "value": 25,
       "name": "Spiddal Stick",
       "weight": 0.1,
